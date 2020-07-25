@@ -11,6 +11,10 @@
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
   },
+  "engines": {
+    "node": ">=11.3.0",
+    "npm": ">=6.14.7"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/willocode/music_API.git"
