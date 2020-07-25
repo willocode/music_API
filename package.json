@@ -2,9 +2,12 @@
   "name": "musicapi",
   "version": "1.0.0",
   "description": "music fetch/ajax api",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "npm test"
+  },
+  "scripts": {
+   "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -20,3 +23,4 @@
   },
   "homepage": "https://github.com/willocode/music_API#readme"
 }
+
